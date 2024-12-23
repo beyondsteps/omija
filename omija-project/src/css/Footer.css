@@ -1,0 +1,15 @@
+/* src/components/Footer.css */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #f8f8f8;
+    border-top: 1px solid #eee;
+    margin-top: 40px; /* 페이지 내용과 구분 */
+  }
+  
+  .footer-links a {
+    margin: 0 4px;
+    text-decoration: none;
+    color: #333;
+  }
+  
