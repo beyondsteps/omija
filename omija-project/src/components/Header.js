@@ -1,6 +1,6 @@
 // src/components/Header.js
 import React from 'react';
-import 'css/Header.css'; // 스타일 시트 (필요하면 추가)
+import '../css/Header.css'; // 스타일 시트 (필요하면 추가)
 
 function Header() {
   // 햄버거 메뉴 열림/닫힘 제어는 useState 등을 활용

@@ -1,6 +1,6 @@
 // src/components/Footer.js
 import React from 'react';
-import 'css/Footer.css'; // 스타일 추가 가능
+import '../css/Footer.css'; // 스타일 추가 가능
 
 function Footer() {
   return (
